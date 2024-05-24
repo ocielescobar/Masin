@@ -1,0 +1,22 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "x=go:jwts;[t!5,zzTjH^F3>>iq[F>yF>F{6he4lYlkVz)A#NVYr3T%
+|cffff00ffSlot 2: |r|nTier 1 (|cff3c3c3cDevil|r)|n[v1.36]|n|cffffaa000 Descensions|r|nLv: 138|n|cffff3333STR: 126|n|cff33ff33AGI: 111|n|cff00fff", 1)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1098018659, "-fINT: 1|n|cffffff00Gold: 22731|r|nDefault string|nDefault string|nDefault string|nDefault string|n|CFFFFDC3CDevil Triad's Orders Go|r|n|CFFFFDC3CZeff's Small Sphere|r|n|CFFFFDC3CZeff's Soul|r|n|CFFFFD", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097689443, "-C3CZeff's Glowing Gloves|r|n|CFFFFDC3CArthas's Silver Mail|r|n|nBAG:|nTribal Chief's Soul|n|CFFFFDC3CDevil Triad's Orders Go|r|n|CFFFFDC3CZeff's Glowing Gloves|r", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
