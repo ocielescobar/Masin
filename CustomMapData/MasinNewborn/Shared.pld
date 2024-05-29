@@ -1,0 +1,19 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "<:]w9R{se()/cWf}j7>a
+|cffffaa00Furthest Descension: 0|r|n|nAshes:|n|cffff0000Baal: 0|n|cff646464Mephisto: 0|n|cff995050Diablo: 0|n|cffee00ccSolomon: 0|n|cff7700d0Aurelia: 0|n|cff00bb00Arachne: 0|n|cff", 1)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1098018659, "-ffff00???: 0|n|cffffff00???: 0|r|n|n|cff00ffff-cam 150|n|cff00ff00Damage notifications on|n|cff00ff00Chest text on|n|cff00ff00Miku singing on|n|cff00ff00Aura on|n|cff00ff00Title on", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

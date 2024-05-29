@@ -1,0 +1,30 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1 : A+Q6(A!eBoAAAAAAAAAAAA@'eAA@MAAdAAACAA@AAdPyAAtAA-AAwAA-AA-AA~AAMAAtAA0AAAp " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "Gold coins:382" )
+	call Preload( "Soul Piece:2" )
+	call Preload( "hero :new body" )
+	call Preload( "level :33" )
+	call Preload( "Experience :58070" )
+	call Preload( "Strength:40" )
+	call Preload( "sense :40" )
+	call Preload( "wisdom :40" )
+	call Preload( "Equipment 1: 'cult leader's attire' Charges : 0" )
+	call Preload( "Equipment 2: 'blunt shield' Charges : 0" )
+	call Preload( "Equipment 3: 'Loudon's Horn' Charges : 0" )
+	call Preload( "Equipment 4: 'Ludon's Seal Stone' Charges : 0" )
+	call Preload( "Storage 1: 'ax of the beast' Charges : 0" )
+	call Preload( "Storage 2: 'Ludon's Soul Fragment' Charges : 0" )
+	call Preload( "Storage 3: 'Loudon's Horn' Charges : 0" )
+	call Preload( "Storage 6: 'Beast Crossbow' Charges : 0" )
+	call Preload( "---------------- Chat Message ----------------" )
+	call Preload( "new body" )
+	call Preload( "1" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

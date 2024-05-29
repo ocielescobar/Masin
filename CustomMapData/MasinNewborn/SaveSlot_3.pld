@@ -1,0 +1,22 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "P:XCf'u}hl.!_@g2:!K#s,@Sn7e3{6'v#=O!hf>CV`r*GIo?z)]
+|cffff00ffSlot 3: |r|n|cffB91A4D-Revenge-|r (|cffB91A4DDevil of Revenge|r)|n[v1.36]|n|cffffaa000 Descensions|r|nLv: 1990|n|cffff3333STR: 20038|n|cff", 1)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1098018659, "-33ff33AGI: 18386|n|cff00ffffINT: 24|n|cffffff00Gold: 0|r|nDefault string|nDefault string|nDefault string|nDefault string|n|CFF9905D8Samuel's Soul|R|n|CFF9905D8Samuel's Noble Staff|R|n|CFF9905D8Prophec", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097689443, "-y's Hand|R|n|CFF9905D8Samuel's Ceremonial Robe|R|n|CFF9905D8Fearful Panic|R|n|cff00ffffRed Rainboots|r|n|nBAG:", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

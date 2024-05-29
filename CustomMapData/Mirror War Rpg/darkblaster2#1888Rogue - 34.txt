@@ -1,0 +1,14 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "----------------- Save Code -----------------" )
+	call Preload( "-load 13EE1-1CI40-18191-OEKEP-7YU1V-41GOC-1R" )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "Player Name: darkblaster2#1888" )
+	call Preload( "Hero: Rogue" )
+	call Preload( "Level: 34" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

@@ -1,0 +1,15 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "-load 1111Y-Y111O-Y6111-OYY11-1OY2K-XY21R-5C1O1-011" )
+	call Preload( "STR: 1" )
+	call Preload( "AGI: 1" )
+	call Preload( "INT: 1" )
+	call Preload( "Wood: 0" )
+	call Preload( "Gold: 0" )
+	call Preload( "Remember to save your Baal and Mephisto replay when you kill them !" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

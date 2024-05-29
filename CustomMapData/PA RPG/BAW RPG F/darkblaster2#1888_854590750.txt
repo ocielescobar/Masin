@@ -1,0 +1,34 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1 : A+Q6(A!;0$AAAAAAAAAAAA!h'AzdIAAtAAA!AA#AA$s7AA@AAyAAwA~=AAyA~AA!ACAAMAA0AAgAAdAAHAAAn " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "Gold coins:49306" )
+	call Preload( "Soul Piece:3" )
+	call Preload( "hero :Corruptor" )
+	call Preload( "level :41" )
+	call Preload( "Experience :89920" )
+	call Preload( "Strength:20" )
+	call Preload( "sense :141" )
+	call Preload( "wisdom :20" )
+	call Preload( "Equipment 1: 'Loudon's Horn' Charges : 0" )
+	call Preload( "Equipment 2: 'Ludon's Leather Clothes' Charges : 0" )
+	call Preload( "Equipment 3: 'blunt shield' Charges : 0" )
+	call Preload( "Equipment 4: 'Ludon's Seal Stone' Charges : 0" )
+	call Preload( "Equipment 5: 'Ingredients: Snow Mushroom' Charges : 0" )
+	call Preload( "Equipment 6: 'wolf's molars' Charges : 1" )
+	call Preload( "Storage 1: 'Minor Stamina Potion' Charges : 2" )
+	call Preload( "Storage 2: 'ax of the beast' Charges : 0" )
+	call Preload( "Storage 3: 'Beast Crossbow' Charges : 0" )
+	call Preload( "Storage 4: 'Staff of Flame' Charges : 0" )
+	call Preload( "Storage 5: 'cult leader's attire' Charges : 0" )
+	call Preload( "Storage 6: 'Club of Flame' Charges : 0" )
+	call Preload( "---------------- Chat Message ----------------" )
+	call Preload( "Corruptor" )
+	call Preload( "1" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

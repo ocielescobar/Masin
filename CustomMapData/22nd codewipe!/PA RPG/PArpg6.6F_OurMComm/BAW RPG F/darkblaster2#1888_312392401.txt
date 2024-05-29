@@ -1,0 +1,24 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1 : ApejgAC'K1AAAAAAAAAAAAz{,AAAtAAkAA@AAAWAAA$AAYAAYAAYAA~AAA* " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "Gold coins:21" )
+	call Preload( "hero :new body" )
+	call Preload( "level :11" )
+	call Preload( "Experience :7200" )
+	call Preload( "Strength:12" )
+	call Preload( "sense :12" )
+	call Preload( "wisdom :12" )
+	call Preload( "Equipment 1: 'old sword' Charges : 0" )
+	call Preload( "Equipment 2: 'blunt shield' Charges : 0" )
+	call Preload( "Equipment 3: 'poor armor' Charges : 0" )
+	call Preload( "---------------- Chat Message ----------------" )
+	call Preload( "new body" )
+	call Preload( "1" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

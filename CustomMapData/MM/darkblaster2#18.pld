@@ -1,0 +1,36 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "--load aY6aeaae!aamaac66ee1eW6aatea6aaaeagaa6eaaa4aLa7aYgPaaa?aDaoa4hLaaaa6caa6FYRXeq7aaaa6a6aeaeaYaYagagaPaPa4a4ahahaLaLaaa6aeaYagaPaaa6aeaYagaPa4b4PCwaaaaa6aaaeaaaYaaagaaaPaaa4aaahaaaLaaajaaa7aaaSaaa", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1098018659, "-?aaalaaaDaaamaaaoaaa0aaauaaaRaaaCaaavaaa2aaawaaazaaa3aaaAaaaBaaaxaaaEaaacaaaFaaa5aaaGaaataaa@aaaHaaaqaaaraaasaaaJaaaKaaa#aaakaaaMaaa8aaa$aaaiaaaNaaaOaaa!aaanaaaQaaapaaaTaaaUaaaVaaabaaa1aaa&aaaWaaadaaa", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097689443, "-XaaaZaaafaaa9aaa%aaayaa6aaa66aa6eaa6Yaa6gaa6Paa64aa6haa6Laa6jaa67aa6Saa6?aa6laa6Daa6maa6oaa60aa6uaa6Raa6Caa6vaa62aa6waa6zaa63aa6Aaa6Baa6xaa6Eaa6caa6Faa65aa6Gaa6taa6@aa6Haa6qaa6raa6saa6Jaa6Kaa6#aa6kaa6", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097689452, "-Maa68aa6$aa6iaa6Naa6Oaa6!aa6naa6Qaa6paa6Taa6Uaa6Vaa6baa61aa6&aa6Waa6daa6Xaa6Zaa6faa69aa6%aa6yaaeaaae6aaeeaaeYaaegaaePaae4aaehaaeLaaejaae7aaeSaae?aaelaaeDaaemaaeoaae0aaeuaaeRaaeCaaevaae2aaewaaezaae3aae", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097034854, "-AaaeBaaexaaeEaaecaaeFaae5aaeGaaetaae@aaeHaaeqaaeraaesaaeJaaeKaae#aaekaaeMaae8aae$aaeiaaeNaaeOaae!aaenaaeQaaepaaeTaaeUaaeVaaebaae1aae&aaeWaaedaaeXaaeZaaefaae9aae%aaeyaaYaaaY6aaYeaaYYaaYgaaYPaaY4aaYhaaY", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097035111, "-LaaYjaaY7aaYSaaY?aaYlaaYDaaYmaaYoaaY0aaYuaaYRaaYCaaYvaaY2aaYwaaYzaaY3aaYAaaYBaaYxaaYEaaYcaaYFaaY5aaYGaaYtaaY@aaYHaaYqaaYraaYsaaYJaaYKaaY#aaYkaaYMaaY8aaY$aaYiaaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6ae", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097098598, "-aYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaa", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097099635, "-a6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPaaa6aeaYagaPawaI", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

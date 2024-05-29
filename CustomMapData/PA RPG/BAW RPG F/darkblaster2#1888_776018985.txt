@@ -1,0 +1,31 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1 : ~qLx6AC>S~AAAAAAAAAAAA@}]AzrgA~fAA~xAA6AA~MbAA*AAYAA@AAeAA,AAYAA%AA~AYAAcAAtAAcAAA/ " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "Gold coins:51327" )
+	call Preload( "Soul Piece:131" )
+	call Preload( "hero :devil" )
+	call Preload( "level :13" )
+	call Preload( "Experience :10140" )
+	call Preload( "Strength:12" )
+	call Preload( "sense :54" )
+	call Preload( "wisdom :12" )
+	call Preload( "Equipment 1: 'armor of ice' Charges : 0" )
+	call Preload( "Equipment 2: 'Administrator's Sealstone' Charges : 0" )
+	call Preload( "Equipment 3: 'Administrator's Huge Gun' Charges : 0" )
+	call Preload( "Equipment 4: 'blunt shield' Charges : 0" )
+	call Preload( "Equipment 5: '[|c00ff0000Genshin|r] |c0000ffffTurk|r' Charges : 0" )
+	call Preload( "Storage 1: 'Minor Stamina Potion' Charges : 12" )
+	call Preload( "Storage 2: 'burning beads' Charges : 0" )
+	call Preload( "Storage 3: 'Loudon's Horn' Charges : 0" )
+	call Preload( "Storage 4: 'burning beads' Charges : 0" )
+	call Preload( "---------------- Chat Message ----------------" )
+	call Preload( "devil" )
+	call Preload( "1" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

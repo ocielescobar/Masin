@@ -1,0 +1,28 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1 : A+Q6(AC<@PAAAAAAAAAAAA@ktAzokAAtAAAsA~fAA)2DAA_AAmAA@A!lAA6AArAA!AA~A~AAAN " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "Gold coins:50149" )
+	call Preload( "Soul Piece:9" )
+	call Preload( "hero :Corruptor" )
+	call Preload( "level :75" )
+	call Preload( "Experience :288625" )
+	call Preload( "Strength:57" )
+	call Preload( "sense :314" )
+	call Preload( "wisdom :37" )
+	call Preload( "Equipment 1: 'Loudon's Horn' Charges : 0" )
+	call Preload( "Equipment 2: 'armor of ice' Charges : 0" )
+	call Preload( "Equipment 3: 'Destroyer's Sealstone' Charges : 0" )
+	call Preload( "Equipment 4: 'blunt shield' Charges : 0" )
+	call Preload( "Equipment 6: 'Necklace of Magical Power' Charges : 0" )
+	call Preload( "Storage 1: 'Minor Stamina Potion' Charges : 1" )
+	call Preload( "---------------- Chat Message ----------------" )
+	call Preload( "Corruptor" )
+	call Preload( "1" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

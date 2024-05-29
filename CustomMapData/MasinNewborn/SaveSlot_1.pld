@@ -1,0 +1,22 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "@!q/^ufAZ=}Cq*1IJ:rjxjYAcMo>UXSGG2WO|a?Y~'ufDXZjo1N.
+|cffff00ffSlot 1: |r|n|cffB91A4D-Revenge-|r (|cffB91A4DDevil of Revenge|r)|n[v1.36]|n|cffffaa000 Descensions|r|nLv: 766|n|cffff3333STR: 3864|n|cff3", 1)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1098018659, "-3ff33AGI: 3724|n|cff00ffffINT: 24|n|cffffff00Gold: 1723|r|nDefault string|nDefault string|nDefault string|nDefault string|n|CFF20B2AAPlague's Sticky Hide|R|n|CFFFFDC3CWitgang's Sharp Claws|r|n|CFF20B2", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097689443, "-AAPlague's Formless Hand|R|n|CFF20B2AAPlague's Soul|R|n|CFFFFDC3CDevil Triad's Orders To|r|n|CFFFFDC3CDevil Triad's Orders Go|r|n|nBAG:", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

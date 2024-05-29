@@ -1,0 +1,25 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097690227, "HPfyoz3j&d^1NOWxT^0tN3'rOTu_fJRYjmseNRWZ.;:6/2`77[*mXOp
+|cffff00ffSlot 2: |r|n|cffB91A4D-Revenge-|r (|cffB91A4DDevil of Revenge|r)|n[v1.36]|n|cffffaa000 Descensions|r|nLv: 1223|n|cffff3333STR: 10661|n", 1)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1098018659, "-|cff33ff33AGI: 5113|n|cff00ffffINT: 24|n|cffffff00Gold: 20000|r|nDefault string|nDefault string|nDefault string|nDefault string|n|CFF20B2AACain's Soul|R|n|CFF20B2AACain's Dagger of Betrayal|R|n|CFF20B", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097689443, "-2AACain's Sturdy Cuffs|R|n|CFF20B2AACain's Bronze Plate|R|n|CFFFFDC3CDevil Triad's Orders To|r|n|nBAG:|n|CFF20B2AABereth's Combat Armor|R|n|CFF20B2AAPlague's Sticky Hide|R|n|CFF20B2AAPlague's Formless", 0)
+//" )
+	call Preload( "" )
+call BlzSetAbilityTooltip(1097689452, "- Hand|R", 0)
+//" )
+	call Preload( "" )
+endfunction
+function a takes nothing returns nothing
+ //" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

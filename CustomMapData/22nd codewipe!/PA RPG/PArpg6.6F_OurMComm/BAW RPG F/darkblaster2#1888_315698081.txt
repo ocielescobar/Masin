@@ -1,0 +1,25 @@
+function PreloadFiles takes nothing returns nothing
+
+	call PreloadStart()
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1 : A+QvGAC'K1AAAAAAAAAAAAz9qAA!>A~bAA@AA@>yAAdAASAA)AASAASAA~AAA_ " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "Gold coins:354" )
+	call Preload( "hero :new body" )
+	call Preload( "level :27" )
+	call Preload( "Experience :39980" )
+	call Preload( "Strength:32" )
+	call Preload( "sense :32" )
+	call Preload( "wisdom :32" )
+	call Preload( "Equipment 1: 'strange dagger' Charges : 0" )
+	call Preload( "Equipment 2: 'blunt shield' Charges : 0" )
+	call Preload( "Equipment 3: 'cult leader's attire' Charges : 0" )
+	call Preload( "Equipment 4: 'Cult's Seal Stone' Charges : 0" )
+	call Preload( "---------------- Chat Message ----------------" )
+	call Preload( "new body" )
+	call Preload( "1" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
